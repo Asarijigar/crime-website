@@ -65,7 +65,7 @@ flex-wrap: nowrap;
 align-content: center;
 justify-content: center;
 align-items: center;">
-    <div class="col-3 "><i class="fas fa-copyright"></i> 2021 Crime Data Analysis All rights reserved </div>
+    <div class="col-3 "><i class="fas fa-copyright"></i> 2024 Crime Data Analysis All rights reserved </div>
 </div>
 </footer>
 

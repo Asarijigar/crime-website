@@ -63,7 +63,7 @@ function (_HTMLElement2) {
   _createClass(MyFooter, [{
     key: "connectedCallback",
     value: function connectedCallback() {
-      this.innerHTML = "\n<footer>\n<div class=\"row pt-5 mx-auto\" style=\"\nposition: absolute;\nbottom: 5;\nleft: 0;\nright: 0;\ndisplay: flex;\nflex-direction: row;\nflex-wrap: nowrap;\nalign-content: center;\njustify-content: center;\nalign-items: center;\">\n    <div class=\"col-3 \"><i class=\"fas fa-copyright\"></i> 2021 Crime Data Analysis All rights reserved </div>\n</div>\n</footer>\n\n\n";
+      this.innerHTML = "\n<footer>\n<div class=\"row pt-5 mx-auto\" style=\"\nposition: absolute;\nbottom: 5;\nleft: 0;\nright: 0;\ndisplay: flex;\nflex-direction: row;\nflex-wrap: nowrap;\nalign-content: center;\njustify-content: center;\nalign-items: center;\">\n    <div class=\"col-3 \"><i class=\"fas fa-copyright\"></i> 2024 Crime Data Analysis All rights reserved </div>\n</div>\n</footer>\n\n\n";
     }
   }]);
 
